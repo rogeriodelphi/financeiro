@@ -1,0 +1,1 @@
+web: run-program gunicorn financeiro.wsgi --log-file -
